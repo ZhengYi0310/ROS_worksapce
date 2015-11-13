@@ -1,0 +1,50 @@
+controller_list:
+  - name: fake_left_wam_controller
+    joints:
+      - left_wam/base_yaw_joint
+      - left_wam/shoulder_pitch_joint
+      - left_wam/shoulder_yaw_joint
+      - left_wam/elbow_pitch_joint
+      - left_wam/wrist_yaw_joint
+      - left_wam/wrist_pitch_joint
+      - left_wam/palm_yaw_joint
+  - name: fake_right_wam_controller
+    joints:
+      - right_wam/base_yaw_joint
+      - right_wam/shoulder_pitch_joint
+      - right_wam/shoulder_yaw_joint
+      - right_wam/elbow_pitch_joint
+      - right_wam/wrist_yaw_joint
+      - right_wam/wrist_pitch_joint
+      - right_wam/palm_yaw_joint
+  - name: fake_left_wam_finger_1_controller
+    joints:
+      - left_wam/bhand/finger_1/prox_joint
+      - left_wam/bhand/finger_1/med_joint
+      - left_wam/bhand/finger_1/dist_joint
+  - name: fake_left_wam_finger_2_controller
+    joints:
+      - left_wam/bhand/finger_2/prox_joint
+      - left_wam/bhand/finger_2/med_joint
+      - left_wam/bhand/finger_2/dist_joint
+  - name: fake_left_wam_finger_3_controller
+    joints:
+      - left_wam/bhand/finger_3/med_joint
+      - left_wam/bhand/finger_3/dist_joint
+  - name: fake_right_wam_finger_1_controller
+    joints:
+      - right_wam/bhand/finger_1/prox_joint
+      - right_wam/bhand/finger_1/med_joint
+      - right_wam/bhand/finger_1/dist_joint
+  - name: fake_right_wam_finger_2_controller
+    joints:
+      - right_wam/bhand/finger_2/prox_joint
+      - right_wam/bhand/finger_2/med_joint
+      - right_wam/bhand/finger_2/dist_joint
+  - name: fake_right_wam_finger_3_controller
+    joints:
+      - right_wam/bhand/finger_3/med_joint
+      - right_wam/bhand/finger_3/dist_joint
+  - name: fake_left_wam_finger_1_tip_controller
+    joints:
+      []

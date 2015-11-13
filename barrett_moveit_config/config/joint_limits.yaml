@@ -1,0 +1,151 @@
+joint_limits:
+  left_wam/bhand/finger_2/med_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/elbow_pitch_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/base_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_3/dist_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/wrist_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/base_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_2/prox_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_2/dist_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_3/dist_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_3/med_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/palm_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/elbow_pitch_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_2/med_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_2/dist_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_1/prox_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_1/dist_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/wrist_pitch_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_1/dist_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/shoulder_pitch_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/shoulder_pitch_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/shoulder_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_1/prox_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/shoulder_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_1/med_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/wrist_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/wrist_pitch_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_2/prox_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/bhand/finger_1/med_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  left_wam/bhand/finger_3/med_joint:
+    has_velocity_limits: true
+    max_velocity: 5
+    has_acceleration_limits: false
+    max_acceleration: 0
+  right_wam/palm_yaw_joint:
+    has_velocity_limits: true
+    max_velocity: 2
+    has_acceleration_limits: false
+    max_acceleration: 0
