@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "barrett_kinectv")
+set(barrett_kinectv_MAINTAINER "yzheng <yzheng@todo.todo>")
+set(barrett_kinectv_DEPRECATED "")
+set(barrett_kinectv_VERSION "0.0.0")
+set(barrett_kinectv_BUILD_DEPENDS "cv_bridge" "diagnostic_updater" "image_transport" "roscpp" "rospy" "sensor_msgs" "stereo_image_proc" "stereo_msgs")
+set(barrett_kinectv_RUN_DEPENDS "cv_bridge" "diagnostic_updater" "image_transport" "roscpp" "rospy" "sensor_msgs" "stereo_image_proc" "stereo_msgs")
+set(barrett_kinectv_BUILDTOOL_DEPENDS "catkin")

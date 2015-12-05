@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rbx2_gui")
+set(rbx2_gui_MAINTAINER "Patrick Goebel <patrick@pirobot.org>")
+set(rbx2_gui_DEPRECATED "")
+set(rbx2_gui_VERSION "0.1.0")
+set(rbx2_gui_BUILD_DEPENDS "roscpp" "rospy" "rosbridge_server")
+set(rbx2_gui_RUN_DEPENDS "roscpp" "rospy" "rosbridge_server")
+set(rbx2_gui_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "barrett_model")
+set(barrett_model_MAINTAINER "yzheng <yzheng@todo.todo>")
+set(barrett_model_DEPRECATED "")
+set(barrett_model_VERSION "0.0.0")
+set(barrett_model_BUILD_DEPENDS "roscpp" "rospy" "urdf" "xacro")
+set(barrett_model_RUN_DEPENDS "roscpp" "rospy" "urdf" "xacro")
+set(barrett_model_BUILDTOOL_DEPENDS "catkin")

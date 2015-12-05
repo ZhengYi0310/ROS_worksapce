@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pither_mug_scenario")
+set(pither_mug_scenario_MAINTAINER "bcalli <bcalli@todo.todo>")
+set(pither_mug_scenario_DEPRECATED "")
+set(pither_mug_scenario_VERSION "0.0.0")
+set(pither_mug_scenario_BUILD_DEPENDS )
+set(pither_mug_scenario_RUN_DEPENDS )
+set(pither_mug_scenario_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "barrett_nav")
+set(barrett_nav_MAINTAINER "yzheng <yzheng@todo.todo>")
+set(barrett_nav_DEPRECATED "")
+set(barrett_nav_VERSION "0.0.0")
+set(barrett_nav_BUILD_DEPENDS "actionlib" "control_msgs" "diagnostic_msgs" "geometry_msgs" "manipulation_msgs" "moveit_msgs" "roscpp" "rospy" "sensor_msgs" "shape_msgs" "std_msgs" "std_srvs" "tf")
+set(barrett_nav_RUN_DEPENDS "actionlib" "control_msgs" "diagnostic_msgs" "geometry_msgs" "manipulation_msgs" "moveit_msgs" "roscpp" "rospy" "sensor_msgs" "shape_msgs" "std_msgs" "std_srvs" "tf")
+set(barrett_nav_BUILDTOOL_DEPENDS "catkin")

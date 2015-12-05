@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rbx2_msgs")
+set(rbx2_msgs_MAINTAINER "Patrick Goebel <patrick@pirobot.org>")
+set(rbx2_msgs_DEPRECATED "")
+set(rbx2_msgs_VERSION "0.1.0")
+set(rbx2_msgs_BUILD_DEPENDS "roscpp" "rospy" "message_generation")
+set(rbx2_msgs_RUN_DEPENDS "roscpp" "rospy" "message_runtime")
+set(rbx2_msgs_BUILDTOOL_DEPENDS "catkin")

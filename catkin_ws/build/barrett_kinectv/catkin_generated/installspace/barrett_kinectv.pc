@@ -1,0 +1,8 @@
+prefix=/home/yzheng/catkin_ws/install
+
+Name: barrett_kinectv
+Description: Description of barrett_kinectv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yzheng/catkin_ws/install/lib 
+Requires: 

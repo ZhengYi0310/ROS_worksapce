@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/server.dir/src/server.cpp.o  -o /home/yzheng/catkin_ws/devel/lib/dynamic_tutorials/server -rdynamic 

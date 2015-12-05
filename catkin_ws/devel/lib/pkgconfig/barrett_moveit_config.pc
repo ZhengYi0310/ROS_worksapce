@@ -1,0 +1,8 @@
+prefix=/home/yzheng/catkin_ws/devel
+
+Name: barrett_moveit_config
+Description: Description of barrett_moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/yzheng/catkin_ws/devel/lib 
+Requires: 

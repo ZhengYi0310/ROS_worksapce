@@ -1,0 +1,8 @@
+prefix=/home/yzheng/catkin_ws/install
+
+Name: table_setting_scenario
+Description: Description of table_setting_scenario
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yzheng/catkin_ws/install/lib 
+Requires: 

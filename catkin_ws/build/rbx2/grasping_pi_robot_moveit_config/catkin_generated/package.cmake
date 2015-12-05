@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "grasping_pi_robot_moveit_config")
+set(grasping_pi_robot_moveit_config_MAINTAINER "MoveIt Setup Assistant <assistant@moveit.ros.org>")
+set(grasping_pi_robot_moveit_config_DEPRECATED "")
+set(grasping_pi_robot_moveit_config_VERSION "0.2.0")
+set(grasping_pi_robot_moveit_config_BUILD_DEPENDS "rbx2_description")
+set(grasping_pi_robot_moveit_config_RUN_DEPENDS "moveit_ros_move_group" "moveit_planners_ompl" "moveit_ros_visualization" "joint_state_publisher" "robot_state_publisher" "xacro" "rbx2_description")
+set(grasping_pi_robot_moveit_config_BUILDTOOL_DEPENDS "catkin")

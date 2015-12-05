@@ -1,0 +1,8 @@
+prefix=/home/yzheng/catkin_ws/devel
+
+Name: ycb_object_models
+Description: Description of ycb_object_models
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yzheng/catkin_ws/devel/lib 
+Requires: 

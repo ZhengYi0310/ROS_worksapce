@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "dynamic_tutorials")
+set(dynamic_tutorials_MAINTAINER "yzheng <yzheng@todo.todo>")
+set(dynamic_tutorials_DEPRECATED "")
+set(dynamic_tutorials_VERSION "0.0.0")
+set(dynamic_tutorials_BUILD_DEPENDS "roscpp" "rospy" "rqt_reconfigure")
+set(dynamic_tutorials_RUN_DEPENDS "roscpp" "rospy" "rqt_reconfigure")
+set(dynamic_tutorials_BUILDTOOL_DEPENDS "catkin")

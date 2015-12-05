@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ycb_object_models")
+set(ycb_object_models_MAINTAINER "bcalli <bcalli@todo.todo>")
+set(ycb_object_models_DEPRECATED "")
+set(ycb_object_models_VERSION "0.0.0")
+set(ycb_object_models_BUILD_DEPENDS )
+set(ycb_object_models_RUN_DEPENDS )
+set(ycb_object_models_BUILDTOOL_DEPENDS "catkin")

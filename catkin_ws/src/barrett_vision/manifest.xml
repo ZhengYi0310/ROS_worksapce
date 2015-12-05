@@ -1,0 +1,23 @@
+<package>
+  <description brief="barrett_vision">
+
+     barrett_vision
+
+  </description>
+  <author>yzheng</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/barrett_vision</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="cv_bridge"/>
+  <depend package="opencv2"/>
+  <depend package="stereo_image_proc"/>
+  <depend package="image_transport"/>
+  <depend package="diagnostic_updater"/>
+  <depend package="sensor_msgs"/>
+  <depend package="stereo_msgs"/>
+
+</package>
+
+

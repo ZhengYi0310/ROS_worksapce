@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rbx2_arm_nav")
+set(rbx2_arm_nav_MAINTAINER "Patrick Goebel <patrick@pirobot.org>")
+set(rbx2_arm_nav_DEPRECATED "")
+set(rbx2_arm_nav_VERSION "0.1.0")
+set(rbx2_arm_nav_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "std_srvs" "actionlib" "tf" "sensor_msgs" "geometry_msgs" "diagnostic_msgs" "trajectory_msgs" "control_msgs" "shape_msgs" "moveit_msgs" "manipulation_msgs" "moveit_msgs")
+set(rbx2_arm_nav_RUN_DEPENDS "roscpp" "rospy" "actionlib" "tf" "std_msgs" "std_srvs" "sensor_msgs" "geometry_msgs" "diagnostic_msgs" "trajectory_msgs" "control_msgs" "shape_msgs" "moveit_msgs" "manipulation_msgs")
+set(rbx2_arm_nav_BUILDTOOL_DEPENDS "catkin")

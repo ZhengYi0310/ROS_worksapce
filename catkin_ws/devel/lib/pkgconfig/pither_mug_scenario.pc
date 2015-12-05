@@ -1,0 +1,8 @@
+prefix=/home/yzheng/catkin_ws/devel
+
+Name: pither_mug_scenario
+Description: Description of pither_mug_scenario
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yzheng/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rbx2_ar_tags")
+set(rbx2_ar_tags_MAINTAINER "Patrick Goebel <patrick@pirobot.org>")
+set(rbx2_ar_tags_DEPRECATED "")
+set(rbx2_ar_tags_VERSION "0.1.0")
+set(rbx2_ar_tags_BUILD_DEPENDS "roscpp" "rospy" "geometry_msgs" "ar_track_alvar")
+set(rbx2_ar_tags_RUN_DEPENDS "roscpp" "rospy" "geometry_msgs" "ar_track_alvar")
+set(rbx2_ar_tags_BUILDTOOL_DEPENDS "catkin")

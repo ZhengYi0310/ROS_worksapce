@@ -1,0 +1,17 @@
+<package>
+  <description brief="barrett_vision">
+
+     barrett_vision
+
+  </description>
+  <author>yzheng</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/barrett_vision</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+

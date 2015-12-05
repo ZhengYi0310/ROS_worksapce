@@ -1,0 +1,8 @@
+prefix=/home/yzheng/catkin_ws/devel
+
+Name: barrett_nav
+Description: Description of barrett_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yzheng/catkin_ws/devel/lib 
+Requires: 
